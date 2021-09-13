@@ -19,7 +19,8 @@ end
 
 
 local function create_autocmds()
-  vim.cmd[[autocmd InsertLeave * lua require("footprints_nvim").highlight_line()]]
+  vim.cmd[[autocmd TextChangedI * lua require("footprints_nvim").highlight_line()]]
+  vim.cmd[[autocmd TextChanged * lua require("footprints_nvim").highlight_line()]]
 end
 
 function M.init()

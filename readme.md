@@ -7,7 +7,7 @@ this is a lua version of
 
 ✨Features
 --------
-* At the moment only highlight lines where you left insert mode
+* Highlights lines where you changed text.
 
 📦Installation
 ------------
@@ -37,7 +37,7 @@ require("footprints_nvim").setup {
 
 🚫Limitations/Issues
 --------------------
-* Can't change line in insert mode
+* Text stays highlighted
 
 💡Future Plans/Ideas
 ------------------
