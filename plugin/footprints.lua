@@ -1,1 +1,1 @@
-require("footprints").init()
+require("footprints_nvim").init()

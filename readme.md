@@ -28,7 +28,12 @@ Just type and leave insert mode.
 
 ⚙️Customization
 -------------
-TBD
+```lua
+-- lua, default settings
+require("footprints_nvim").setup {
+    highlight_color = "#A1A1A1"
+}
+```
 
 🚫Limitations/Issues
 --------------------
@@ -36,7 +41,6 @@ TBD
 
 💡Future Plans/Ideas
 ------------------
-* Add Customization
 
 👀Demo
 ------
