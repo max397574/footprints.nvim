@@ -31,9 +31,15 @@ Just type and leave insert mode.
 TBD
 
 🚫Limitations/Issues
------------
+--------------------
 * Can't change line in insert mode
 
 💡Future Plans/Ideas
 ------------------
 * Add Customization
+
+👀Demo
+------
+
+https://user-images.githubusercontent.com/81827001/133116866-d9acedc2-ffdc-4b67-a6f2-b128b071be38.mp4
+
