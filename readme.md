@@ -41,7 +41,7 @@ require("footprints_nvim").setup {
 
 💡Future Plans/Ideas
 ------------------
-Feel free to suggest stuff in the issues
+Dimmer highlight the older the changes are
 
 👀Demo
 ------
