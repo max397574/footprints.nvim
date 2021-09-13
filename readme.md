@@ -50,3 +50,4 @@ Smarter highlight colors
 👀Demo
 ------
 
+https://user-images.githubusercontent.com/81827001/133138785-4d8d550a-5762-4223-b24d-97d3aa4f1bf4.mp4
