@@ -41,6 +41,7 @@ require("footprints_nvim").setup {
 
 💡Future Plans/Ideas
 ------------------
+Feel free to suggest stuff in the issues
 
 👀Demo
 ------
