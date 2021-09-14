@@ -1,6 +1,6 @@
-# footprints.nvim
+# 👣footprints.nvim
 
-this is a lua version of
+This is a lua version of
 [footprints](https://github.com/axlebedev/footprints)
 
 ✨Features
