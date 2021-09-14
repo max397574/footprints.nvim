@@ -41,7 +41,7 @@ require("footprints_nvim").setup {
 
 🚫Limitations/Issues
 --------------------
-Write issues in the issues tab
+* Currently doesn't work when highlight are set with a namespace
 
 💡Future Plans/Ideas
 ------------------
