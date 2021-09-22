@@ -30,12 +30,12 @@ Just type and see your changes.
 ```lua
 -- lua, default settings
 require("footprints_nvim").setup {
-    settings.highlight_color_1 = "#000000" --for the oldest change
-    settings.highlight_color_2 = "#2E2E2E"
-    settings.highlight_color_3 = "#616161"
-    settings.highlight_color_4 = "#969696"
-    settings.highlight_color_5 = "#A1A1A1" -- for the newest change
-    settings.change_step_size = 1 -- how much time until a change goes to the next category
+    highlight_color_1 = "#000000" --for the oldest change
+    highlight_color_2 = "#2E2E2E"
+    highlight_color_3 = "#616161"
+    highlight_color_4 = "#969696"
+    highlight_color_5 = "#A1A1A1" -- for the newest change
+    change_step_size = 1 -- how much time until a change goes to the next category
 }
 ```
 
